@@ -17,7 +17,7 @@ outdoor2 = input("I enjoy playing basketball")
 music2 = input("I have learnt to play a music instrument")
 
 
-tech_final = int(tech1) + int(tech2)
+tech_final() = int(tech1) + int(tech2)
 outdoor_final = int(outdoor1) + int(outdoor2)
 music_final = int(music1)+ int(music2)
 
